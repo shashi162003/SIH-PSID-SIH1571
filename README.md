@@ -1,6 +1,8 @@
 # SIH-PSID-SIH1571
 Problem Statement Title - Drone-based Intelligent ET sensing system and irrigation water use accounting system for irrigation commands.
 
+We've currently trained our model on Apple Leaf, we'll be doing for all other plants in some time.
+
 Demo Video of Detection of Apple Scab - 
 
 
